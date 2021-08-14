@@ -28,6 +28,8 @@ Adicionar chave pública de repositórios Irontec:
 
 rpm --import http://packages.irontec.com/public.key
 
+yum update
+
 
 E instale o pacote
 
